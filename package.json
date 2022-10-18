@@ -1,0 +1,26 @@
+{
+  "name": "todolist-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinazarrin/Todo-list-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinazarrin/Todo-list-typescript/issues"
+  },
+  "homepage": "https://github.com/sinazarrin/Todo-list-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
